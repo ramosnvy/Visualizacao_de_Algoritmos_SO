@@ -97,7 +97,7 @@ function App() {
         <div className="container mx-auto px-4 text-center">
           <div className="flex justify-center gap-6 mb-6">
             <a
-              href="https://github.com/seu-usuario/seu-repositorio"
+              href="https://github.com/ramosnvy"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 text-white hover:text-indigo-300 transition-colors"
